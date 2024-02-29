@@ -5,4 +5,4 @@ RewordIdBegin##{f230d143a512002f}##LastRewordId
 IsfreedBegin##{false}##LastIsfreed
 Url_RateBegin##{https://www.google.com/}##LastUrl_Rate
 
-IsRateBegin##{false}##LastIsRate
+IsRateBegin##{true}##LastIsRate
