@@ -1,7 +1,7 @@
 SdkKeyBegin##{aT1PVBaMyeb4o0qTtJh_PCTJzHlfP2wobtvkM41ym0CBd55k4p_qmgm5rcnndcva6Tf5ArfxxcbWh1lteQwCAr}##LastSdkKey
-bannerIdBegin##{9a8da160fd0366ea}##LastbannerId
-InterIdBegin##{8ed9bc79eb4c16f3}##LastInterId
-RewordIdBegin##{f230d143a512002f}##LastRewordId
+bannerIdBegin##{bf8d60c9a4bc6116}##LastbannerId
+InterIdBegin##{c3b41f7307a5a617}##LastInterId
+RewordIdBegin##{2e9efff204828986}##LastRewordId
 IsfreedBegin##{false}##LastIsfreed
 Url_RateBegin##{https://play.google.com/store/apps/details?id=com.SmilingCritters.Fighting.Scary}##LastUrl_Rate
 
