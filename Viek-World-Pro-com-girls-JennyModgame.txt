@@ -1,0 +1,8 @@
+SdkKeyBegin##{AMGKnpVh02T_3z88boSpDAH4ZwVA4oS9tTqvWz64aBXLAOG6X8TG1BAuGLTM8fl0sNxClRpwXlBWCXvE5Eyqen}##LastSdkKey
+bannerIdBegin##{bf8d60c9a4bc6116}##LastbannerId
+InterIdBegin##{c3b41f7307a5a617}##LastInterId
+RewordIdBegin##{2e9efff204828986}##LastRewordId
+IsfreedBegin##{false}##LastIsfreed
+Url_RateBegin##{https://play.google.com/store/apps/details?id=com.girls.JennyModgame}##LastUrl_Rate
+
+IsRateBegin##{false}##LastIsRate
