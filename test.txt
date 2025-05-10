@@ -1,5 +1,5 @@
 SdkKeyBegin##{aT1PVBaMyeb4o0qTtJh_PCTJzHlfP2wobtvkM41ym0CBd55k4p_qmgm5rcnndcva6Tf5ArfxxcbWh1lteQwCAr}##LastSdkKey
-bannerIdBegin##{78da9804feed7208}##LastbannerId
+bannerIdBegin##{78da9804feed7208*}##LastbannerId
 InterIdBegin##{a8253b4f4797a82c}##LastInterId
 RewordIdBegin##{07f6ad7c0d02b968}##LastRewordId
 IsfreedBegin##{false}##LastIsfreed
